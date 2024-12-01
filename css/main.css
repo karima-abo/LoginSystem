@@ -1,0 +1,62 @@
+body{
+    background-color: #24353F;
+    font-family: sans-serif;
+    font-weight: 500;
+}
+h1{
+    color: #17A2B8;
+}
+.login{
+    width: 50%;
+    padding: 48px;
+    margin: auto;
+    box-shadow:  -5px 2px 54px -10px rgba(0, 0, 0, 1);
+    
+   
+}
+
+
+
+
+
+
+
+p {
+    color: white;
+}
+a{
+    color: inherit;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+    transition: all 0.3s;
+}
+button{
+    transition: all 0.5s;
+    color: #17A2B8;
+}
+button:hover{
+    background-color: #17A2B8 !important;
+    color: white;
+    border: 0;
+
+}
+h2{
+    color: white;
+    padding: 48px;
+    box-shadow:  -5px 2px 54px -10px rgba(0, 0, 0, 1);
+
+}
+.nav-item a{
+    border: 1px solid #FFC107;
+    padding: 8px;
+    color: gray;
+    text-decoration: none;
+    border-radius: 5px;
+
+}
+.nav-item a:hover{
+    background-color: #FFC107;
+    border:0;
+}
